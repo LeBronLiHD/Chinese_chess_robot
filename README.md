@@ -14,11 +14,11 @@
 
 1. 安装ROS
 2. 完成视觉部分
-  1. OpenCV
-  2. Machine Learning
+    1. OpenCV
+    2. Machine Learning
 3. 两辆小车（走棋、吃棋）
-  1. 小尺寸主动轮或者机械传动
-  2. 移位精度控制
+    1. 小尺寸主动轮或者机械传动
+    2. 移位精度控制
 
 
 
